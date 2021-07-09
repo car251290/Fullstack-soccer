@@ -4,7 +4,7 @@ import { PlayerSchema } from '../models/playerModel';
 const Player = mongoose.model('player', PlayerSchema);
 
 export const addNewPlayer = (req,res) => {
-    let newPlayer = new Player(req.body);
+    const newPlayer = new Player(req.body);
 
     newPlayer.save((err,Player) => {
         if(err){
