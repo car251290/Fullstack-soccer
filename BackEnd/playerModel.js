@@ -10,7 +10,6 @@ export const PlayerSchema = new Schema({
     lastName: {
         type: String,
         required: true,
-    
     },
     email : {
         type: String,
@@ -54,5 +53,4 @@ export const PlayerSchema = new Schema({
         type:Date,
         default: Date.now
     },
-
 });
