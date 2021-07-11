@@ -3,6 +3,9 @@ Full Stack small application for apply the knowledge of a backend and a front en
 
 Soccer aplication using technology as JavaScript and express js 
 
+for text propuse I am using postman for get and post the request
+https://www.postman.com
+
 MongeDB as the server 
 https://www.mongodb.com
 
