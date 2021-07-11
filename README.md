@@ -1,7 +1,10 @@
 # Fullstack-soccer
-Full Stack small application
+Full Stack small application for apply the knowledge of a backend and a front end application.
+
 Soccer aplication using technology as JavaScript and express js 
+
 MongeDB as the server 
+https://www.mongodb.com
 
 this fullstack will display name of the playes as well as some characteristics that they will have.
 ## Material UI 
