@@ -36,3 +36,4 @@ React has been designed from the start for gradual adoption, and you can use as 
 ## Create a New React App
 When starting a React project, a simple HTML page with script tags might still be the best option. It only takes a minute to set up!
 
+
