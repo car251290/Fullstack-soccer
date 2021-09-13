@@ -1,10 +1,8 @@
 # Fullstack-soccer
 Full Stack small application for apply the knowledge of a backend and a front end application.
-
 Soccer aplication using technology as JavaScript and express js 
 
-
-for text propuse I am using postman for get and post the request
+For text propuse I am using postman for check the get and the post the request
 https://www.postman.com
 
 ## MongeDB as the server 
@@ -17,9 +15,7 @@ this fullstack will display name of the playes as well as some characteristics t
 for get the easier way to get CSS and a style
 https://material-ui.com/getting-started/installation/
 
-
 Why use Material-UI's styling solution?
-
 In previous versions, Material-UI has used LESS, then a custom inline-style solution to write the component styles, but these approaches have proven to be limited. A CSS-in-JS solution overcomes many of those limitations, and unlocks many great features (theme nesting, dynamic styles, self-support, etc.).
 
 Material-UI's styling solution is inspired by many other styling libraries such as styled-components and emotion.
