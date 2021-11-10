@@ -32,7 +32,7 @@ export const getPlayerWithId = (req,res) => {
         res.json(Player)
     });
 }
-//Put method for the player
+//update method for the player
 export const UpdatePlayer = (req,res) => {
     Player.findOneAndUpdate({ _id: req.params.PlayerId},req.body,{new:true},(err,Player) => {
 
