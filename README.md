@@ -5,6 +5,9 @@ Soccer aplication using technology as JavaScript and express js
 For text propuse I am using postman for check the get and the post the request
 https://www.postman.com
 
+##PostMan
+Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
+
 ## MongeDB as the server 
 MongoDB’s document data model naturally supports JSON and its expressive query language is simple for developers to learn and use. Functionality such as automatic failover, horizontal scaling, and the ability to assign data to a location are built-in.
 https://www.mongodb.com
