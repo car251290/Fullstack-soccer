@@ -29,9 +29,9 @@ React has been designed from the start for gradual adoption, and you can use as 
 
 # Tools use this Project
 
-1- React
-2- Node.js
-3- JavaScript
-4- MongoDB
-5- Express
+* React
+* Node.js
+* JavaScript
+* MongoDB
+* Express
 
