@@ -42,6 +42,12 @@ React has been designed from the start for gradual adoption, and you can use as 
 
 Instead, use useEffect. The function passed to useEffect will run after the render is committed to the screen. Think of effects as an escape hatch from React’s purely functional world into the imperative world.
 
+Learn React
+People come to React from different backgrounds and with different learning styles. Whether you prefer a more theoretical or a practical approach, we hope you’ll find this section helpful.
+If you prefer to learn by doing, start with our practical tutorial.
+If you prefer to learn concepts step by step, start with our guide to main concepts.
+Like any unfamiliar technology, React does have a learning curve. With practice and some patience, you will get the hang of it.
+
 Unlike componentDidMount and componentDidUpdate, the function passed to useEffect fires after layout and paint, during a deferred event. This makes it suitable for the many common side effects, like setting up subscriptions and event handlers, because most types of work shouldn’t block the browser from updating the screen.
 
 # Tools use this Project
@@ -51,4 +57,5 @@ Unlike componentDidMount and componentDidUpdate, the function passed to useEffec
 * JavaScript
 * MongoDB
 * Express
+* HTML & CSS 
 
