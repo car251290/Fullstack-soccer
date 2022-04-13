@@ -34,6 +34,9 @@ JavaScript functions are reusable blocks of code that perform a specific task, t
 To define a function, you must use the function keyword, followed by a name, followed by parentheses ( ). Then you have to write the function logic between curly brackets { }
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 
+Include different data types
+16 minutes remaining
+In the previous step, you used string interpolation to insert one string inside of another. Each interpolation expression that is part of an interpolated string expression can be of any data type, though. Let's include values of various data type expressions in an interpolated string.
 
 ## Node.js 
 
