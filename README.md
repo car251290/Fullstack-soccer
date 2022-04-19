@@ -58,10 +58,10 @@ Unlike componentDidMount and componentDidUpdate, the function passed to useEffec
 
 # Tools use this Project
 
-* React
+* React.js
 * Node.js
 * JavaScript
 * MongoDB
 * Express
-* HTML & CSS 
+* HTML & css styles
 
