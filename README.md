@@ -25,6 +25,13 @@ Include different data types
 16 minutes remaining
 In the previous step, you used string interpolation to insert one string inside of another. Each interpolation expression that is part of an interpolated string expression can be of any data type, though. Let's include values of various data type expressions in an interpolated string.
 
+Constructor
+Date()
+When called as a function, returns a string representation of the current date and time. All arguments are ignored. The result is the same as executing new Date().toString().
+
+new Date()
+When called as a constructor, returns a new Date object.
+
 ## Node.js 
 
 In Node.js the new ECMAScript standards can be used without problems, as you don't have to wait for all your users to update their browsers - you are in charge of deciding which ECMAScript version to use by changing the Node.js version, and you can also enable specific experimental features by running Node.js with flags.
