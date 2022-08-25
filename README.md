@@ -62,6 +62,14 @@ A RESTful API is an architectural style for an application program interface (AP
 A RESTful API -- also referred to as a RESTful web service or REST API -- is based on representational state transfer (REST), which is an architectural style and approach to communications often used in web services development.
 400, 500, 200 
 
+HTTP Method FAQs
+What’s the difference between PUT and POST?
+PUT requests are idempotent, meaning that executing the same PUT request will always produce the same result.
+
+On the other hand, a POST will produce different outcomes. If you execute a POST request multiple times, you'll create a new resource multiple times despite them having the same data being passed in.
+
+Using a restaurant analogy, POSTing multiple times would create multiple separate orders, whereas multiple PUT requests will update the same existing order.
+
 ## Express.js
 express or simply Express, is a back end web application framework for Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs.[3] It has been called the de facto standard server framework for Node.js.
 
