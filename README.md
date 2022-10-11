@@ -36,6 +36,10 @@ When called as a constructor, returns a new Date object.
 
 In Node.js the new ECMAScript standards can be used without problems, as you don't have to wait for all your users to update their browsers - you are in charge of deciding which ECMAScript version to use by changing the Node.js version, and you can also enable specific experimental features by running Node.js with flags.
 
+How do I find which version of V8 ships with a particular version of Node.js?
+
+Node.js provides a simple way to list all dependencies and respective versions that ship with a specific binary through the process global object. In case of the V8 engine, type the following in your terminal to retrieve its version:
+
 ## API reference documentation
 The API reference documentation provides detailed information about a function or object in Node.js. This documentation indicates what arguments a method accepts, the return value of that method, and what errors may be related to that method. It also indicates which methods are available for different versions of Node.js.
 
